@@ -1,0 +1,12 @@
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\bin\Debug\net6.0\Blazor-WebAssembly-App.Shared.deps.json
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\bin\Debug\net6.0\Blazor-WebAssembly-App.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\bin\Debug\net6.0\Blazor-WebAssembly-App.Shared.pdb
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.csproj.AssemblyReference.cache
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.AssemblyInfoInputs.cache
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.AssemblyInfo.cs
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.csproj.CoreCompileInputs.cache
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\refint\Blazor-WebAssembly-App.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\Blazor-WebAssembly-App.Shared.pdb
+E:\Blockchain\Solana\Lydian_Project\Blazor-WebAssembly-App\Blazor-WebAssembly-App\Shared\obj\Debug\net6.0\ref\Blazor-WebAssembly-App.Shared.dll
