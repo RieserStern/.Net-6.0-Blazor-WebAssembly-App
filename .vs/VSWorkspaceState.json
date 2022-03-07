@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Blazor-WebAssembly-App",
     "\\Blazor-WebAssembly-App\\Client",
-    "\\Blazor-WebAssembly-App\\Client\\wwwroot",
-    "\\Blazor-WebAssembly-App\\Server"
+    "\\Blazor-WebAssembly-App\\Client\\wwwroot"
   ],
-  "SelectedNode": "\\Blazor-WebAssembly-App.sln",
+  "SelectedNode": "\\Blazor-WebAssembly-App\\Client\\wwwroot\\service-worker.js",
   "PreviewInSolutionExplorer": false
 }
